@@ -1,8 +1,3 @@
-body{
-    /*Configurações Flexbox*/
-    /*display: flex;
-    flex-direction: column;*/
-}
 
 header{
     display: flex;
@@ -10,8 +5,11 @@ header{
     align-items: center;
     justify-content: center;
     justify-content: space-between;
-    background-color: silver;
-    width: 100%;
+    background-color: white;
+    width: 90%;
+    justify-self: center;
+    height: 200px;
+    margin-bottom: 5px;
     
 
 }
@@ -19,11 +17,43 @@ header{
     /*configuração Flexbox*/
     
     /*Configurações de estilo*/
-    padding: 5px;
-    border-color: black;
+    padding: 10px;
+    margin: 5px;
+    border-color: white;
     border: 1px;
     border-style: solid;
     width: 15%;
-    height: 100%;
+    height: 70%;
     justify-items: center;
+    align-content: center;
+}
+
+nav{
+    /*Configurações flexbox*/
+    justify-self: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 90%;
+    background-color: silver;
+    gap: 15%;
+}
+#imgNav{
+    width: 100%;
+    margin-bottom: 30px;
+    height: 800px;
+}
+.containerNav{
+    background-color: ();
+    border: 3px;
+    border-color: blue;
+    border-style: solid;
+    padding: 1%;
+    margin-bottom: 20px;
+    height: 100px;
+    width: 200px;
+    justify-items: center;
+    align-content: center;
+
 }
