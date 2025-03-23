@@ -2,3 +2,9 @@ Um teste de Git utilizando uma atividade que estou realizando na faculdade sobre
 
 A atividade tem como objetivo fazer uma landing page e utilizar alguns recursos da Aula 04 de
 Desenvolvimento Web.
+
+Assuntos da Aula:
+
+- Tags Semânticas;
+- Layout Flexbox;
+- Responsividade.
